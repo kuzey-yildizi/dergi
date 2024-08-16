@@ -1,6 +1,6 @@
 ---
 title: "pdf dosyaları"
-slug: "pdf-dosyalari"
+slug: "/pdf/"
 ---
 
 [sayı: bir - şubat 2002](/pdf/ky01.pdf) (1.17

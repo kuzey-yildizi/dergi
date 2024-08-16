@@ -1,6 +1,6 @@
 ---
 title: "özge dirik kitabı: nokta durağı"
-slug: "ozge-dirik-kitabi-nokta-duragi"
+slug: "/ozge.dirik.kitabi"
 ---
 
 **giriş**
