@@ -1,6 +1,6 @@
 ---
 title: "sayı: dokuz - ekim/kasım 2003"
-slug: "/dergi/9"
+slug: "/9"
 ---
 
 ![](/img/ky09_00_zaferyalcinpinar.jpg)

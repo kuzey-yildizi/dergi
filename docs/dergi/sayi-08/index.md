@@ -1,6 +1,6 @@
 ---
 title: "sayı: sekiz - mayıs/haziran 2003"
-slug: "/dergi/8"
+slug: "/8"
 ---
 
 

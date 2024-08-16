@@ -1,6 +1,6 @@
 ---
 title: "sayı: on bir - nisan/mayıs 2005"
-slug: "/dergi/11"
+slug: "/11"
 ---
 
 ![](/img/11_kapak.jpg)
