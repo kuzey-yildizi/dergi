@@ -16,4 +16,4 @@ sidebar_position: 1
 [sayı: on - ocak/şubat 2004](/10)  
 [sayı: on bir - nisan/mayıs 2005](/11)  
 [sayı: on iki - ekim/kasım 2005](/12)  
-[sayı: on üç - temmuz/ağustos 2006](/13)  
+[sayı: on üç - temmuz/ağustos 2006](/13)
