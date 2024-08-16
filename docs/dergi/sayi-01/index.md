@@ -1,6 +1,6 @@
 ---
 title: "sayı: bir - şubat/mart 2002"
-slug: "/1"
+slug: "/1/"
 ---
 
 ![kapak](/img/ky01_00_caglacomert_zaferyalcinpinar.jpg)![arka](/img/ky01_36_barisozdemir.jpg)

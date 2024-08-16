@@ -1,6 +1,6 @@
 ---
 title: "sayı: on üç - temmuz/ağustos 2006"
-slug: "/13"
+slug: "/13/"
 ---
 
 ![](/img/13.kapak1.jpg)

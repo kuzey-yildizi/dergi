@@ -1,6 +1,6 @@
 ---
 title: "sayı: beş - ekim/kasım 2002"
-slug: "/5"
+slug: "/5/"
 ---
 
 ![](/img/5_kapak.jpg)

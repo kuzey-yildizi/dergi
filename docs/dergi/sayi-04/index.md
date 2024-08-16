@@ -1,6 +1,6 @@
 ---
 title: "sayı: dört - ağustos/eylül 2002"
-slug: "/4"
+slug: "/4/"
 ---
 
 ![](/img/4_kapak.jpg)

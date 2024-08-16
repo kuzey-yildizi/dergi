@@ -1,6 +1,6 @@
 ---
 title: "sayı: üç - haziran/temmuz 2002"
-slug: "/3"
+slug: "/3/"
 ---
 
 ![kapak](/img/ky03_00a_zaferyalcinpinar.jpg)![arka](/img/ky03_36.jpg)

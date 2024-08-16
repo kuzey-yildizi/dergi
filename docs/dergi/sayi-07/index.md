@@ -1,6 +1,6 @@
 ---
 title: "sayı: yedi - mart/nisan 2003"
-slug: "/7"
+slug: "/7/"
 ---
 
 ![](/img/ky07_00_zaferyalcinpinar.jpg)

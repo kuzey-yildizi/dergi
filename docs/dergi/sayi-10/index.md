@@ -1,6 +1,6 @@
 ---
 title: "sayı: on - ocak/şubat 2004"
-slug: "/10"
+slug: "/10/"
 ---
 
 

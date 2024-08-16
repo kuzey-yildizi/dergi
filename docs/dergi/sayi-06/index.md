@@ -1,6 +1,6 @@
 ---
 title: "sayı: altı - aralık/ocak 2003"
-slug: "/6"
+slug: "/6/"
 ---
 
 ![](/img/ky06_00a_zaferyalcinpinar.jpg)
