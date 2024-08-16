@@ -80,18 +80,21 @@ const config = {
             sidebarId: 'dergiSidebar',
             position: 'left',
             label: 'dergi',
+            to: '/',
           },
           {
             type: 'docSidebar',
             sidebarId: 'ozgedirikkitabiSidebar',
             position: 'left',
             label: 'özge dirik kitabı',
+            to: '/ozge.dirik.kitabi',
           },
           {
             type: 'docSidebar',
             sidebarId: 'pdfdosyalariSidebar',
             position: 'left',
-            label: 'pdf dosyaları',  
+            label: 'pdf dosyaları',
+            to: '/pdf',  
           },
           { to: '/blog', label: 'Blog', position: 'left' },
           {
@@ -109,15 +112,15 @@ const config = {
             items: [
               {
                 label: 'dergi',
-                to: '/dergi',
+                to: '/',
               },
               {
                 label: 'özge dirik kitabı',   
-                to: '/ozgedirikkitabi/ozge-dirik-kitabi-nokta-duragi',
+                to: '/ozge.dirik.kitabi',
               },
               {
                 label: 'pdf dosyaları',
-                to: '/pdfdosyalari/pdf-dosyalari',
+                to: '/pdf',
               },
             ],
           },
