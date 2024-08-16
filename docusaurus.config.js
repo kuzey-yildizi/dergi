@@ -17,11 +17,11 @@ const config = {
   url: 'https://kuzey-yildizi.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/dergi/',
+  baseUrl: '/',
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'monobilisim', // Usually your GitHub org/user name.
-  projectName: 'docusaurus-kuzeyyildizi', // Usually your repo name.
+  organizationName: 'kuzey-yildizi', // Usually your GitHub org/user name.
+  projectName: 'dergi', // Usually your repo name.
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
