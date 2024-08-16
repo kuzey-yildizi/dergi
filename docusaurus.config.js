@@ -79,7 +79,6 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'dergiSidebar',
             position: 'left',
-            to: '/',
             label: 'dergi',
           },
           {
