@@ -1,5 +1,4 @@
 ---
-sidebar_position: 1
 title: "sayı: üç - haziran/temmuz 2002"
 slug: "/dergi/3"
 ---
