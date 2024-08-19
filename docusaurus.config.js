@@ -17,7 +17,7 @@ const config = {
   url: 'https://kuzey-yildizi.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/dergi/',
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'kuzey-yildizi', // Usually your GitHub org/user name.
@@ -45,17 +45,10 @@ const config = {
           routeBasePath: '/',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          //editUrl:
+            //'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
-        blog: {
-          showReadingTime: true,
-          routeBasePath: '/blog',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
+
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -96,19 +89,13 @@ const config = {
             label: 'pdf dosyaları',
             to: '/pdf',  
           },
-          { to: '/blog', label: 'Blog', position: 'left' },
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
         ],
       },
       footer: {
-        style: 'dark',
+        style: 'light',
         links: [
           {
-            title: 'docs',
+            title: 'Hızlı Erişim',
             items: [
               {
                 label: 'dergi',
@@ -124,38 +111,8 @@ const config = {
               },
             ],
           },
-          {
-            title: 'community',
-            items: [
-              {
-                label: 'stack overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'more',
-            items: [
-              {
-                label: 'blog',
-                to: '/blog',
-              },
-              {
-                label: 'github',
-                href: 'https://github.com/facebook/docusaurus',
-              },
-            ],
-          },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Kuzey Yıldızı Edebiyat Dergisi. PK 200 34711 Kadıköy / İstanbul`,
       },
       prism: {
         theme: prismThemes.github,
