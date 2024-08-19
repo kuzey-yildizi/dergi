@@ -1,6 +1,6 @@
 ---
 title: "sayı: iki - nisan/mayıs 2002"
-slug: "/2/"
+slug: "/dergi/2/"
 
 ---
 

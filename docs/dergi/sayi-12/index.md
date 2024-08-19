@@ -1,6 +1,6 @@
 ---
 title: "sayı: on iki - ekim/kasım 2002"
-slug: "/12/"
+slug: "/dergi/12/"
 ---
 
 ![kapak](/img/ky12_00_zaferyalcinpinar.jpg)
