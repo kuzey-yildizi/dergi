@@ -1,9 +1,10 @@
 ---
+title: "edebiyat dergisi"
 sidebar_position: 1
 slug: "/"
 ---
 
-# Dergi
+# dergi sayıları
 
 [sayı: bir - şubat/mart 2002](/dergi/1)  
 [sayı: iki - nisan/mayıs 2002](/dergi/2)  

@@ -72,7 +72,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'dergiSidebar',
             position: 'left',
-            label: 'dergi',
+            label: 'edebiyat dergisi',
             to: '/',
           },
           {
