@@ -62,19 +62,12 @@ const config = {
       // Replace with your project's social card
       image: 'img/ky01_01_atayuludokumaci.png',
       navbar: {
-        title: 'kuzey yıldızı',
+        title: 'kuzey yıldızı edebiyat dergisi',
         logo: {
           alt: 'Kuzey Yıldızı Logo',
           src: 'img/ky01_01_atayuludokumaci.png',
         },
         items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'dergiSidebar',
-            position: 'left',
-            label: 'edebiyat dergisi',
-            to: '/',
-          },
           {
             type: 'docSidebar',
             sidebarId: 'ozgedirikkitabiSidebar',

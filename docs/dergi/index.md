@@ -1,10 +1,10 @@
 ---
-title: "edebiyat dergisi"
+title: "kuzey yıldızı edebiyat dergisi"
 sidebar_position: 1
 slug: "/"
 ---
 
-# dergi sayıları
+# kuzey yıldızı edebiyat dergisi
 
 [sayı: bir - şubat/mart 2002](/dergi/1)  
 [sayı: iki - nisan/mayıs 2002](/dergi/2)  
