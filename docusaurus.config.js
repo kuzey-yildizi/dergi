@@ -105,7 +105,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Kuzey Yıldızı Edebiyat Dergisi. PK 200 34711 Kadıköy / İstanbul`,
+        copyright: `Copyright © ${new Date().getFullYear()} Kuzey Yıldızı Edebiyat Dergisi.`,
       },
       prism: {
         theme: prismThemes.github,
