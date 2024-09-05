@@ -104,6 +104,23 @@ const config = {
               },
             ],
           },
+          {
+            title: 'Sosyal Medya',
+            items: [
+              {
+                label: 'x',
+                href: 'https://x.com/kuzeyyildizi',
+              },
+              {
+                label: 'facebook',
+                href: 'https://www.facebook.com/kuzeyyildiziedebiyatdergisi',
+              },
+              {
+                label: 'instagram',
+                href: 'https://www.instagram.com/kuzeyyildiziedebiyatdergisi',
+              },
+            ],
+          },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Kuzey Yıldızı Edebiyat Dergisi.`,
       },
