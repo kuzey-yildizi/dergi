@@ -1,6 +1,5 @@
 ---
 title: "kuzey yıldızı edebiyat dergisi"
-sidebar_position: 1
 ---
 
 # kuzey yıldızı edebiyat dergisi
