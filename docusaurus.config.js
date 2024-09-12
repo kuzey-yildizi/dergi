@@ -79,6 +79,10 @@ const config = {
             label: 'pdf dosyaları',
             to: '/pdf',  
           },
+          {
+            to: '/blog', 
+            label: 'duyurular', 
+          },
         ],
       },
       footer: {

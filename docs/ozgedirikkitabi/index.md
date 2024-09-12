@@ -10,7 +10,7 @@ Vedat Kamer tarafından Salı, 13/11/2007 - 19:11 tarihinde gönderildi
 ayrı üşüdü geceleri, şiir olup sustuk. 12 ocak 2005'te birbirimizin
 gözlerinin içine baktık, o anda alevlenmişti yıldızımız. «[özge dir'ik
 bütün şiirleri'ne başlangıç
-denemesi](/11/ozge.dirikin.butun.siirlerine.baslangic.denemesi)»
+denemesi](/dergi/11/ozge.dirikin.butun.siirlerine.baslangic.denemesi)»
 yaptık nisan 2005'te. özge, şiirlerini yayımlatmadan önce [kuzey yıldızı
 yazarlar grubuna](http://groups.yahoo.com/group/kyyazarlari) gönderirdi,
 orada okurduk ilk önce. bu kaynağın matbu olmamasından ötürü bunu
@@ -77,8 +77,8 @@ vasiyetindeki listeyi «nokta durağı» olarak yayımlamak doğru
 olmayacaktır, çünkü mart 2003 - ağustos 2004 arasında yazdığı nice güzel
 şiiri dışarda bırakmış oluruz. deniz dirik ile hazırlamış olduğu liste
 maalesef kayıp. bununla birlikte 25 ağustos'ta yazdığı
-«[makas](/11/makas)» isimli şiir ile, 26 ağustos'ta yazdığı
-«[ilham nöbetleri](/11/ilham.nobetleri)» isimli iki şiirin bu
+«[makas](/dergi/11/makas)» isimli şiir ile, 26 ağustos'ta yazdığı
+«[ilham nöbetleri](/dergi/11/ilham.nobetleri)» isimli iki şiirin bu
 listede olduklarını düşünmüyoruz. kitabı oluştururken şöyle bir yol
 takip edeceğiz:
 
