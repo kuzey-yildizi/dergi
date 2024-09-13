@@ -83,6 +83,10 @@ const config = {
             to: '/blog', 
             label: 'duyurular', 
           },
+          {
+            to: '/iletisim', 
+            label: 'iletişim', 
+          },
         ],
       },
       footer: {
