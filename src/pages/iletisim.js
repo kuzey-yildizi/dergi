@@ -36,34 +36,28 @@ function Contact() {
           <h1>iletişim</h1>
           <form 
             className="contact-form"
-            action=""
-            method="post"
+            action="https://webform.monocloud.com.tr/contact"
+            method="POST"
             onSubmit={handleSubmit}>
             <div>
               <label htmlFor="name">Adınız:</label>
-              <input type="text" id="name" name="name" required />
+              <input type="text" name="name" required />
             </div>
             <div>
               <label htmlFor="email">E-posta Adresiniz:</label>
-              <input type="email" id="email" name="email" required />
+              <input type="email" name="email" required />
             </div>
             <div>
               <label htmlFor="subject">Konu:</label>
-              <input type="text" id="subject" name="subject" required />
+              <input type="text" name="subject" required />
             </div>
             <div>
               <label htmlFor="message">İleti:</label>
-              <textarea id="message" name="message" required></textarea>
+              <textarea name="message" required></textarea>
             </div>
             <button type="submit">İletiyi Gönder</button>
           </form>
           {formStatus && <p>{formStatus}</p>}
-        </div>
-        <div className="contact-info-section">
-          <div className="contact-info">
-            <h2>Kuzey Yıldızı Edebiyat Dergisi</h2>
-            <p>lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum</p>
-          </div>
         </div>
       </div>
     </Layout>
