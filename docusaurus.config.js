@@ -68,24 +68,25 @@ const config = {
         },
         items: [
           {
+            type: 'docSidebar',
+            sidebarId: 'dergiSidebar',
             label: 'kuzey yıldızı edebiyat dergisi',
-            to: '/dergi',
           },
           {
-            label: 'özge dirik kitabı',
             to: '/ozge.dirik.kitabi',
+            label: 'özge dirik kitabı',
           },
           {
+            to: '/pdf',
             label: 'pdf dosyaları',
-            to: '/pdf',  
           },
           {
-            to: '/blog', 
-            label: 'duyurular', 
+            to: '/blog',
+            label: 'duyurular',
           },
           {
-            to: '/iletisim', 
-            label: 'iletişim', 
+            to: '/iletisim',
+            label: 'iletişim',
           },
         ],
       },
