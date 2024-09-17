@@ -1,7 +1,7 @@
 ---
 slug: ilk-duyuru
 title: İlk Duyuru
-authors: [murat]
+authors: [taha]
 tags: [ilk duyuru]
 ---
 
