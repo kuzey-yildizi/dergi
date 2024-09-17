@@ -48,7 +48,11 @@ const config = {
           //editUrl:
             //'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
-
+        blog: {
+          showReadingTime: true,
+          blogSidebarTitle: 'Son Duyurular',
+          blogSidebarCount: 'ALL',
+        },
         theme: {
           customCss: './src/css/custom.css',
         },

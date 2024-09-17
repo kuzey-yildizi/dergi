@@ -1,8 +1,8 @@
 ---
-slug: first-blog-post
-title: First Blog Post
-authors: [slorber, yangshun]
-tags: [hola, docusaurus]
+slug: ilk-duyuru
+title: İlk Duyuru
+authors: [murat]
+tags: [ilk duyuru]
 ---
 
 Lorem ipsum dolor sit amet...
