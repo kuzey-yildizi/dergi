@@ -53,7 +53,7 @@ function Contact() {
             </div>
             <div>
               <label htmlFor="message">İleti:</label>
-              <textarea name="message" required></textarea>
+              <textarea rows="10" name="message" required></textarea>
             </div>
             <button type="submit">İletiyi Gönder</button>
           </form>
